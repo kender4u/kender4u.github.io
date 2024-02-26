@@ -1,0 +1,26 @@
+*   
+body {
+    margin: 0;
+  }
+  
+  .nav {
+    background-color: grey;
+    color: white;
+    display: flex;
+    padding: 0 .5rem;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  .link-all {
+    display: flex;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .link {
+    padding: .5rem;
+  }
+
+  
